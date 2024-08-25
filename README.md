@@ -11,5 +11,5 @@ Follow these steps to install the project:
 
 prerequisite
 ```sh
-    pip install pygame
+pip install pygame
   ```
