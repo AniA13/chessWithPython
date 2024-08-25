@@ -10,4 +10,6 @@ Follow these steps to install the project:
 2. **Run main.py file in any IDE:**
 
 prerequisite
+```sh
     pip install pygame
+  ```
